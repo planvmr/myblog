@@ -30,6 +30,3 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-
-source: ./source
-destination: _site
